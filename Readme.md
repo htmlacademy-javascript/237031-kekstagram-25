@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Даниил Кметь](https://up.htmlacademy.ru/javascript/25/user/237031).
-* Наставник: `Неизвестно`.
+* Студент: [Даниил Кметь](https://htmlacademy.ru/profile/id237031).
+* Наставник: [Артём Рудов](https://htmlacademy.ru/profile/artrudov).
 
 ---
 
